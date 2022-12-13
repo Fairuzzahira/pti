@@ -5,4 +5,5 @@ Materi PTI
 4. Konversi Bilangan
 5. Aplikasi Word I (Atur Halaman)
 6. Aplikasi word II (Daftar Isi)
-7. Aplikasi Word III (Mail Merge)
+7. Aplikasi Mandeley
+
